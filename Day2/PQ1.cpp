@@ -7,7 +7,7 @@ int main(){
     cout<<"Please enter the number n : ";
     cin >> n;
     for(int i =1 ; i <=n; i++){
-        cout<< i;
+        cout<< i <<" ";
     }
     return 0;
 }
