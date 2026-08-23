@@ -1,4 +1,4 @@
-/*Maximum Sum of subarray by Kadane's algorithm
+/*Maximum Sum of subarray by Kadane's algorithm (53)
 logic - We have to writen the maximum sum of the subarrays element so we are applying loop 
 to add on the index values in the curent sum and compairing it by the maximum sum
  which will be updated as per the iterations and conditions it is known as kadanae's algorithm because he optimized this code by
